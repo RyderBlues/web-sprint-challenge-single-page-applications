@@ -49,7 +49,7 @@ End to end testing tests the entire user experience. It mimics how a user would 
 ### Task 1: Project Set Up
 
 - [ x] Create a forked copy of this project
-- [x ] Add your team lead as collaborator on Github
+- [ x ] Add your team lead as collaborator on Github
 - [ x] Clone your OWN version of the repository (Not Lambda's by mistake!)
 - [ x] Create a new branch: `git checkout -b <firstName-lastName>`
 - [ x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly
